@@ -1,0 +1,14 @@
+D:\Proyects\11Paths\Pocs\GoogleApiNet\GoogleApiSearch\GoogleApiSearch\bin\Debug\GoogleApiSearch.exe.config
+D:\Proyects\11Paths\Pocs\GoogleApiNet\GoogleApiSearch\GoogleApiSearch\bin\Debug\GoogleApiSearch.exe
+D:\Proyects\11Paths\Pocs\GoogleApiNet\GoogleApiSearch\GoogleApiSearch\bin\Debug\GoogleApiSearch.pdb
+D:\Proyects\11Paths\Pocs\GoogleApiNet\GoogleApiSearch\GoogleApiSearch\bin\Debug\Google.Apis.Core.dll
+D:\Proyects\11Paths\Pocs\GoogleApiNet\GoogleApiSearch\GoogleApiSearch\bin\Debug\Google.Apis.Customsearch.v1.dll
+D:\Proyects\11Paths\Pocs\GoogleApiNet\GoogleApiSearch\GoogleApiSearch\bin\Debug\Google.Apis.dll
+D:\Proyects\11Paths\Pocs\GoogleApiNet\GoogleApiSearch\GoogleApiSearch\bin\Debug\Google.Apis.PlatformServices.dll
+D:\Proyects\11Paths\Pocs\GoogleApiNet\GoogleApiSearch\GoogleApiSearch\bin\Debug\Newtonsoft.Json.dll
+D:\Proyects\11Paths\Pocs\GoogleApiNet\GoogleApiSearch\GoogleApiSearch\bin\Debug\Google.Apis.xml
+D:\Proyects\11Paths\Pocs\GoogleApiNet\GoogleApiSearch\GoogleApiSearch\bin\Debug\Google.Apis.Core.xml
+D:\Proyects\11Paths\Pocs\GoogleApiNet\GoogleApiSearch\GoogleApiSearch\bin\Debug\Google.Apis.Customsearch.v1.xml
+D:\Proyects\11Paths\Pocs\GoogleApiNet\GoogleApiSearch\GoogleApiSearch\bin\Debug\Newtonsoft.Json.xml
+D:\Proyects\11Paths\Pocs\GoogleApiNet\GoogleApiSearch\GoogleApiSearch\obj\Debug\GoogleApiSearch.exe
+D:\Proyects\11Paths\Pocs\GoogleApiNet\GoogleApiSearch\GoogleApiSearch\obj\Debug\GoogleApiSearch.pdb
